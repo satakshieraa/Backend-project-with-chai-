@@ -1,0 +1,20 @@
+{
+  "name": "chai-backend-project-big-one-good-one",
+  "version": "1.0.0",
+  "description": "A backend at chai aur code channel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "satakshi era",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
